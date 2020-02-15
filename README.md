@@ -2,7 +2,7 @@
 
 # 1.Github项目地址
 
-- 项目地址：
+- 项目地址：<https://github.com/James0608/ZhengFangJWSystemBackend> 
 - 我的博客地址：https://blog.heyhwj.cn/
 
 # 2.如何启动项目？
@@ -14,6 +14,8 @@
 # 3.项目无法启动怎么办？
 
 - 请检查是否是路径错误，是否已经正确的按要求创建了所需要的目录
+
+- 请检查`GlobalConstant`类下的URL与教务系统上的请求URL是否一致
 
 - 请检查正方教务管理系统FormData（post请求的body）的key是否与项目代码中的一致
 
