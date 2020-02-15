@@ -1,0 +1,5 @@
+#数据源配置
+spring:
+  profiles:
+    ### 当前环境使用的配置文件
+    active: dev

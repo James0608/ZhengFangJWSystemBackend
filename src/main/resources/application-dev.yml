@@ -1,0 +1,8 @@
+server:
+  port: 17008
+crawler:
+  javaOCR:
+    trainSetDir: D:\image\train_set\
+    trainTestDir: D:\image\test_set\
+    trainResultDir: D:\image\train_result\
+    trainRecordDir: D:\image\record\

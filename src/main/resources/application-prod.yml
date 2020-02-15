@@ -1,0 +1,8 @@
+server:
+  port: 17008
+crawler:
+  javaOCR:
+    trainSetDir: /
+    trainTestDir: /
+    trainResultDir: /usr/java/ocr/result/
+    trainRecordDir: /usr/java/ocr/record/
